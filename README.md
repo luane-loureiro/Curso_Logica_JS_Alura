@@ -1,1 +1,2 @@
-# Curso_Logica_JS_Alura
+# Desafio
+### Curso de Logica de Programação com java script da Alura
